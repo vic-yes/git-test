@@ -1,11 +1,10 @@
 init version
 commit 1
-<<<<<<< HEAD
 commit 2
 
 commit 3
 
 commit 4
-=======
-commit 2
->>>>>>> parent of 9cd9e5e... commit 3
+
+aaa
+
